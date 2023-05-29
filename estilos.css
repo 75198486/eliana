@@ -3,13 +3,14 @@
 }
 
 .contenedor{
-    background: cadetblue;
+    background: rgb(255, 124, 124);
     width: 100vw;
     height: 100vh;
     text-align: center;
 }
 
 p{
+    color: white;
     font-size: xx-large;
     padding: 15%;
 }
