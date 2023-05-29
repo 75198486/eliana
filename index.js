@@ -2,7 +2,7 @@ const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
     alert('Sabia que ibas a decir que si uwu')
-    window.location.href="https://api.whatsapp.com/send?phone=51926810722&text=Chi%21%20mi%20amor<3%20"
+    window.location.href="https://api.whatsapp.com/send?phone=51926810722&text=Chi%21%20mi%20amor<3%20🥰"
 });
 
 const noBtn = document.querySelector('#noBtn');
