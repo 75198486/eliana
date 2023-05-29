@@ -3,10 +3,14 @@
 }
 
 .contenedor{
-    background: rgb(255, 124, 124);
+    background-image: url(./WhatsApp\ Image\ 2023-05-28\ at\ 11.13.08\ PM.jpeg);
+    /* background: rgb(255, 124, 124); */
+    background-position: center;
     width: 100vw;
     height: 100vh;
     text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 p{
