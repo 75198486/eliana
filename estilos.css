@@ -22,6 +22,8 @@ p{
 button{
     font-size: xx-large;
     padding: 0.75em;
+    border: none;
+    border-radius: 10px;
 }
 
 #yesBtn{
